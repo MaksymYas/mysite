@@ -5,7 +5,7 @@ function Home () {
 return (
 
     <div className="home">
-      <img id="home-img" src='https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80' alt="city_drawing" />
+      <img id="home-img" src={require('../img/birds-view.png')} alt="city_drawing" />
     </div>
 
   );
