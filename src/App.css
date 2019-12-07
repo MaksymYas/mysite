@@ -1,0 +1,34 @@
+@media screen and (min-width: 481px) {
+
+  #home-img {
+  width:70%;
+  float: right;
+  display: block;
+  margin-top: -285px;
+  margin-right: 80px;
+}
+.Menu {
+  width: 30%;
+  margin-top: 55px;
+}
+h4 {
+  text-align: center;
+}
+}
+.social {
+  display: flex;
+  justify-content: flex-end;
+  width: 95%;
+}
+p {
+  width: 85%;
+  font-size: 20px;
+  }
+
+a {
+  text-decoration: none;
+}
+.logo {
+  color: #0000ff;
+
+}
